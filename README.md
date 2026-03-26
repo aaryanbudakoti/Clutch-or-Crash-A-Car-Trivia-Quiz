@@ -25,7 +25,8 @@ This quiz isn’t just about answering questions — it’s about proving your h
    ```bash
    git clone https://github.com/aaryanbudakoti/Clutch-or-Crash-A-Car-Trivia-Quiz.git
 2. Navigate into the project folder:
-      cd Clutch-or-Crash-A-Car-Trivia-Quiz
+   ```bash
+   cd Clutch-or-Crash-A-Car-Trivia-Quiz
 
 
 📸 Preview
